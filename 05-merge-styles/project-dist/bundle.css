@@ -1,0 +1,26 @@
+.footer {
+  margin-top: auto;
+  text-align: center;
+}
+.header {
+  background-color: var(--bg-color);
+  padding: 20px;
+}
+:root {
+  --primary-color: #3498db;
+  --bg-color: #f4f4f9;
+}
+.hero {
+  font-size: 2rem;
+  text-align: center;
+}
+.btn {
+  color: white;
+  background-color: var(--primary-color);
+  border: none;
+}
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+}
