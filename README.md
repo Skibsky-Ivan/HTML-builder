@@ -1,4 +1,4 @@
-1. Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-0/modules/html-builder/html-builder.md
+1. Task: https://github.com/rolling-scopes-school/tasks/blob/master/stage0.5%20Bootcamp/tasks/html-builder/README.md
 2. Screenshot:
    <img width="384" height="198" alt="изображение" src="https://github.com/user-attachments/assets/ec6ed2a9-84c0-49ea-854a-ac39b4158631" />
 3. Deployment: 
